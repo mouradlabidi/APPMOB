@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.mourad.tp5appexo1.AuthActivity">
+    <item
+        android:id="@+id/add"
+        android:title="Ajouter une nouvelle liste"
+        android:icon="@drawable/ic_note_add_24dp"
+        app:showAsAction="always" />
+
+</menu>
