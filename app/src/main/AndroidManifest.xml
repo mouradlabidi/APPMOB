@@ -15,8 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <uses-permission android:name="android.permission.CAMERA" />
         <activity android:name=".GrilleProduitsActivity" />
-        <activity android:name=".ResetPassword"></activity>
+        <activity android:name=".AjouterProduitActivity"></activity>
     </application>
 
 </manifest>
